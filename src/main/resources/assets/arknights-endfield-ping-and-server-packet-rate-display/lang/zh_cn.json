@@ -1,0 +1,6 @@
+{
+  "key.arknights-endfield-ping.toggle": "切换详细显示 (Alt+F6)",
+  "key.arknights-endfield-ping.copy_ping": "复制Ping信息 (Ctrl+O)",
+  "key.arknights-endfield-ping.copy_all": "复制所有信息 (Ctrl+T)",
+  "category.arknights-endfield-ping": "Arknights: Endfield Ping and Server Packet Rate Display"
+}
